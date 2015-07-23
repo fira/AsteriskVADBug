@@ -1,0 +1,12 @@
+{
+  "name": "AsteriskVADBug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ari-client": "^0.1.6"
+  },
+  "author": "",
+  "license": "MIT"
+}
